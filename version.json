@@ -1,11 +1,12 @@
 {
-  "Code": 0,
-  "Msg": "",
-  "UpdateStatus": 2,
-  "VersionCode": 3,
-  "VersionName": "1.0.2",
-  "ModifyContent": "1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
-  "DownloadUrl": "https://raw.githubusercontent.com/xuexiangjys/XUpdate/master/apk/xupdate_demo_1.0.2.apk",
-  "ApkSize": 2048
-  "ApkMd5": "256DF928FED3835C5B2833234E494C07"
+"Code": 0,
+"Msg": "",
+"UpdateStatus": 2,
+"VersionCode": 17,
+"VersionName": "1.1.6",
+"UploadTime": "2021-01-01 17:00:00",
+"ModifyContent": "\r\n1、修复部分已知问题。\n2、优化了部分组件功能。\n3、新增更多使用演示。",
+"DownloadUrl": "https://xuexiangjys.oss-cn-shanghai.aliyuncs.com/apk/xuidemo.apk",
+"ApkSize": 13493,
+"ApkMd5": "24F7A063A5D7C7BE092F12E2C660F748"
 }
